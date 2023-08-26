@@ -1,4 +1,4 @@
-#Dice Game Project
+Dice Game Project
 
 https://jeetbhati4u.github.io/Dicee/
 
